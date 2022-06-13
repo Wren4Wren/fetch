@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  color: black;
+}
+.Movie{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+.Ghibli{
+  height: auto;
+  width: 150px;
+  object-fit: cover;
+}
+.Animal{
+  height: auto;
+  width: 150px;
+  object-fit: cover;
+}
+.Banner{
+  height: auto;
+  width: 150px;
+  object-fit: cover;
+}
