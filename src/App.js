@@ -43,7 +43,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Fetch API</h1>
+      <h1>Shopping Cart</h1>
       {error && <p>{error}</p>}
       {anime.map((anime) => (
         <div className="Movies" key={anime.id}>
